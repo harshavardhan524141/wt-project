@@ -1,0 +1,6 @@
+{
+  "name": "QueueLess – Smart Queue Management System",
+  "description": "Join service queues digitally, track live token status and wait times, and manage service centers effortlessly with QueueLess.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
